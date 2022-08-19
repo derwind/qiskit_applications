@@ -1,5 +1,14 @@
 # qiskit_applications
 
+## bloch_vector
+
+- A simple application to overview how Bloch vectors change when rotations are applied to quantum states.
+
+- What you can learn:
+  - How to create the corresponding Bloch vector from a quantum state
+  - How to visualize a Bloch vector on a Bloch sphere
+  - How to implement in NumPy and in Qiskit and view their comparison
+
 ## grover
 
 - A simple application using Grover's algorithm
